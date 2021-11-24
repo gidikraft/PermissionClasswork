@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MondayClasswork</string>
     <string name="Enable_camera">Enable camera</string>
+    <string name="camera_access_required">Camera access required</string>
+    <string name="camera">Camera started</string>
+    <string name="ok">okay</string>
+    <string name="permission_denied">Camera permission denied</string>
+    <string name="permission_granted">Camera permission granted</string>
 </resources>
